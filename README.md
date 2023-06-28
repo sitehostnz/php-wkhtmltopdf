@@ -16,7 +16,7 @@ That's not to say there aren't any limitations, you may find some, but if you do
 
 ## The Process
 
-1. [Create a customer image](https://kb.sitehost.nz/cloud-containers/custom-images/create-a-custom-image#image-creation) by forking from one of our exisitng images.  In this example we forked from the Apache + PHP 7.4 image.
+1. [Create a custom image](https://kb.sitehost.nz/cloud-containers/custom-images/create-a-custom-image#image-creation) by forking from one of our exisitng images.  In this example we forked from the Apache + PHP 7.4 image.
 2. Replace your _Dockerfile_ from this example repository.
 3. Commit the changes.
 4. [Viewing Build Status and Build Log.](https://kb.sitehost.nz/cloud-containers/custom-images/create-a-custom-image#viewing-build-status-and-)
