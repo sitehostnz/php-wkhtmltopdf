@@ -1,4 +1,4 @@
-# Custom Image Example Apache PHP + wkhtmltopdf
+# Custom Image Example - Apache PHP + wkhtmltopdf
 
 In this example we will be building an Apache + PHP + wkhtmltopdf forked from one of our existing Apache + PHP images.
 
